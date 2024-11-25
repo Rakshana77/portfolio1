@@ -61,7 +61,7 @@
 //     </section>
 // }
 
-import websiteImg1 from '../assets/ecommerce-websites.jpg';
+
 import websiteImg2 from '../assets/website4.jpg';
 import websiteImg3 from '../assets/shopping.jpg';
 import websiteImg4 from '../assets/todoapp.jpg';
