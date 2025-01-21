@@ -24,8 +24,8 @@ export default function Projects() {
             {
                 image: websiteImg3,
                 description: 'Employee Management app. Built with MERN STACK.',
-                link: 'https://github.com/Rakshana77/employee-management-fe',
-                deploy: "https://dynamic-duckanoo-c58198.netlify.app/",
+                link: 'https://github.com/Rakshana77/employee',
+                deploy: "https://starlit-banoffee-347939.netlify.app/",
             },
             {
                 image: websiteImg4,
